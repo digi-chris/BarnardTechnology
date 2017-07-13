@@ -11,6 +11,8 @@ Licensed under the GNU GPLv3.
 
 ### WebConsole
 
+![Example - WebConsole running HECTOR](https://github.com/digi-chris/BarnardTechnology.NET/blob/master/images/webconsole-example.png?raw=true)
+
 The WebConsole is designed to give very simple console apps the ability to duplicate their console output to a web page. This output allows two-way communication - keypresses entered on the web page will be sent to the console app.
 
 In this way, the intention is to allow headless services to output information to the user in a simple and effective way, whilst also allow the user some basic level of interactivity.
