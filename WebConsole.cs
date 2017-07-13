@@ -553,7 +553,7 @@ namespace BarnardTechnology
                 return resp;
             });
 
-            _wsServer = new WebSocketComms.CommsServer("webconsole", "webconsole", this, 888,null);
+            _wsServer = new WebSocketComms.CommsServer("webconsole", "webconsole", this, 888, null);
             MirrorConsole();
         }
 
